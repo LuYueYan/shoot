@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="runningSceneSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="169bcf4f973" ></w:Config>
+	<e:Image id="bgImg" source="img_bg_game_02_jpg" horizontalCenter="0" top="0" height="1334"/>
+	<e:Image source="img_bg_game_01_jpg" y="195" horizontalCenter="0"/>
+	<e:Image source="img_bg_green_1_png" x="55" y="47"/>
+	<e:BitmapLabel id="scoreText" x="212" y="78" text="66" font="stripe_text_fnt"/>
+	<e:Group x="364" y="47">
+		<e:Image source="img_bg_green_2_png" x="0" y="0"/>
+		<e:Image source="img_diamonds_00_png" x="10" y="18"/>
+		<e:BitmapLabel id="amountText" x="87" y="27" text="09/20" scaleX="0.7" scaleY="0.7" font="stripe_text_fnt"/>
+		<e:Image source="img_schedule_01_png" x="83" y="62"/>
+		<e:Image id="amountPro" source="img_schedule_02_png" x="83" y="62" width="0"/>
+	</e:Group>
+	<e:Image source="img_bg_game_03_png" y="1275" horizontalCenter="0"/>
+	<e:Image source="img_bg_prop_01_png" x="55" y="1194.5"/>
+	<e:Image source="img_prop_a1_png" x="68.5" y="1197"/>
+	<e:Image id="hero" source="img_role_boy_png" x="446" y="1129" anchorOffsetY="162" anchorOffsetX="40"/>
+	<e:Group id="rayGroup" width="750" height="1334">
+	</e:Group>
+</e:Skin>

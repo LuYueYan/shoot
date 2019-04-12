@@ -1,0 +1,69 @@
+{
+    "169bcf4f973": {
+        "path": "page\\runningScene.ts",
+        "class": "runningScene",
+        "parentPath": ""
+    },
+    "global": {
+        "globalAutoLayerMarkEnable": false
+    },
+    "16a0c5503cc": {
+        "path": "page\\startScene.ts",
+        "class": "startScene",
+        "parentPath": ""
+    },
+    "16a0f9026f3": {
+        "backgroundX": 0,
+        "backgroundY": 0,
+        "backgroundWidth": -1,
+        "backgroundHeight": -1,
+        "useBgImage": true,
+        "useBgColor": true,
+        "backgroundAlpha": 100
+    },
+    "16a0fab86c8": {
+        "path": "modal\\rankItem.ts",
+        "class": "rankItem",
+        "parentPath": "resource/eui_skins/ItemRendererSkin.exml"
+    },
+    "16a103561f4": {
+        "path": "modal\\getLifr.ts",
+        "class": "getLifr",
+        "parentPath": ""
+    },
+    "16a1035eba8": {
+        "path": "modal\\getLifeModal.ts",
+        "class": "getLifeModal",
+        "parentPath": ""
+    },
+    "16a1051c7a0": {
+        "path": "modal\\moreItem.ts",
+        "class": "moreItem",
+        "parentPath": "resource/eui_skins/ItemRendererSkin.exml"
+    },
+    "16a1053de65": {
+        "path": "modal\\moreScroller.ts",
+        "class": "moreScroller",
+        "parentPath": ""
+    },
+    "16a1058fdea": {
+        "path": "modal\\rebornModal.ts",
+        "class": "rebornModal",
+        "parentPath": ""
+    },
+    "16a105f96c8": {
+        "path": "page\\gameOver.ts",
+        "class": "gameOver",
+        "parentPath": ""
+    },
+    "16a108c9e1e": {
+        "path": "modal\\levelUpModal.ts",
+        "class": "levelUpModal",
+        "parentPath": ""
+    },
+    "16a10a2e25c": {
+        "path": "modal\\getSuccess.ts",
+        "class": "getSuccess",
+        "parentPath": ""
+    }
+}

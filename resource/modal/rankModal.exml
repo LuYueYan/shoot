@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="rankModalSkin" width="750" height="1334" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*" >
+	<w:Config id="16753daf9c0" ></w:Config>
+	<e:Image id="bgImg" x="0" y="0" height="1334" width="750" source="img_bg_ranking_01_png"/>
+	<e:Group id="friendGroup" width="600" height="780" y="276" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0">
+	</e:Group>
+	<e:Group id="worldGroup" width="600" height="588" y="388" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" cacheAsBitmap="true" visible="false"/>
+	<e:Group y="296" anchorOffsetX="0" width="470" horizontalCenter="0">
+		<e:Image id="friend" touchEnabled="true" left="0" verticalCenter="0" source="img_diamonds_00_png"/>
+		<e:Image id="world" touchEnabled="true" right="0" verticalCenter="0" source="img_diamonds_00_png"/>
+	</e:Group>
+	<e:Group y="995.41" anchorOffsetX="0" width="197.19" horizontalCenter="-0.5">
+		<e:Image id="lastPage" left="0" top="0" source="img_diamonds_00_png"/>
+		<e:Image id="nextPage" right="0" top="0" source="img_diamonds_00_png"/>
+		<e:Label id="pageText" text="1 / 2" horizontalCenter="0" verticalCenter="0" fontFamily="Microsoft YaHei" size="28" visible="false"/>
+	</e:Group>
+	<e:Button id="goHome" label="home" x="22" y="58">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="100%" height="100%" source="bnt_home_png"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:Button>
+</e:Skin>

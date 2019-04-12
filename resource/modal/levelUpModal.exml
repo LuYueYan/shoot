@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="levelUpModalSkin" width="750" height="500" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16a108c9e1e" ></w:Config>
+	<e:Label id="levelText" text="第1关" x="169" y="64"/>
+	<e:Label id="scoreText" text="666" x="169" y="132"/>
+	<e:Label id="goldText" text="x20" x="163" y="210"/>
+	<e:Button id="videoBtn" label="videox2" x="148" y="283"/>
+	<e:Label id="getBtn" text="普通领取&gt;" x="100" y="382" touchEnabled="true"/>
+</e:Skin>

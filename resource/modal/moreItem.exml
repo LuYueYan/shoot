@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="moreItemSkin" width="140" height="130" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="166f7559668" ></w:Config>
+	<e:Image id="image" width="100" height="100" y="0" horizontalCenter="0"/>
+	<e:Rect id="imgMask" width="100" height="100" y="0" ellipseWidth="30" ellipseHeight="30" horizontalCenter="0" visible="false"/>
+	<e:Label id="title" text="名字哇" y="105.5" width="100%" height="25" size="18" verticalAlign="middle" fontFamily="Microsoft YaHei" textColor="0xfbf6e3" horizontalCenter="0" textAlign="center"/>
+</e:Skin>

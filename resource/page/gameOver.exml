@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="gameOverSkin" width="750" height="600" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16a105f96c8" ></w:Config>
+	<e:Label text="闯关失败" x="169" y="66"/>
+	<e:Label id="levelText" text="第2关" x="169" y="151"/>
+	<e:Label id="levelProccess" text="1/20" x="190.5" y="239"/>
+	<e:Button id="playBtn" label="继续" x="125" y="408"/>
+	<e:Button id="shareBtn" label="share" x="309" y="407"/>
+	<e:Button id="homeBtn" label="home" x="199.5" y="511"/>
+</e:Skin>

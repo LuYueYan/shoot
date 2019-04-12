@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="getLifeModalSkin" width="750" height="577.27" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16a1035eba8" ></w:Config>
+	<e:Button id="closeBtn" label="Button" x="15" y="12"/>
+	<e:Label text="还差04.59恢复1点体力" y="124" horizontalCenter="0"/>
+	<e:Button id="videoBtn" label="video" x="270" y="289"/>
+	<e:Button id="shareBtn" label="share" x="277" y="388"/>
+	<e:Label id="shareTimes" text="(0/5)" x="283.21" y="473"/>
+	<e:Label text="每日5次机会" x="270" y="525.42"/>
+</e:Skin>

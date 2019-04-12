@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="moreScrollerSkin" width="140" height="450" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="169c82b5c5b" ></w:Config>
+	<e:Scroller id="moreScroller" width="140" height="450" anchorOffsetY="0" x="0">
+		<e:Group>
+		<e:Group id="moreGroup" width="100%" scaleX="1" scaleY="1" height="450"/>
+		<e:Group id="moreGroup2" width="100%" scaleX="1" scaleY="1" height="450"/>
+		</e:Group>
+	</e:Scroller>
+</e:Skin>

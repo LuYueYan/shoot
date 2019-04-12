@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<e:Skin class="rankItemSkin" states="up,down,disabled" minHeight="50" minWidth="100" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" width="600" height="86">
+	<e:Group width="100%" height="100%" x="0" verticalCenter="0">
+		<e:Label id="index" text="1" x="0" scaleX="1" scaleY="1" bold="true" size="32" anchorOffsetX="0" width="103" textAlign="center" italic="true" verticalCenter="0" fontFamily="Microsoft YaHei" textColor="0xffffff"/>
+		<e:Image id="bestHat" x="25" verticalCenter="0" source="icn_medal_01_png" visible="false"/>
+		<e:Rect id="headimgMask" width="70" height="70" ellipseWidth="30" strokeColor="0xffffff" x="112" verticalCenter="0"/>
+		<e:Image id="headimg" width="70" height="70" x="112" verticalCenter="0"/>
+		<e:Label id="nickName" text="" x="202" size="24" anchorOffsetX="0" width="175" height="26" fontFamily="Microsoft YaHei" verticalCenter="0" textColor="0xfdddff"/>
+		<e:Label id="level" text="关卡1" x="469" anchorOffsetX="0" width="81" fontFamily="Microsoft YaHei" size="28" height="28" verticalCenter="-18" rotation="0.12" textAlign="right" textColor="0xffff01" bold="true"/>
+		<e:Label id="score" text="0" x="350" anchorOffsetX="0" width="200" fontFamily="Microsoft YaHei" size="28" height="28" verticalCenter="20" rotation="0.12" textAlign="right" textColor="0xffffff"/>
+		<e:Rect width="600" height="1" y="83.67" anchorOffsetY="0" horizontalCenter="0" fillColor="0x888888"/>
+		<e:Image id="star_1" source="img_bullet_a1_png" x="259" y="-8"/>
+		<e:Image id="star_2" source="img_bullet_a1_png" x="330.5" y="1"/>
+		<e:Image id="star_3" source="img_bullet_a1_png" x="386.94" y="-2.33"/>
+		<e:layout>
+			<e:BasicLayout/>
+		</e:layout>
+	</e:Group>
+
+	<w:Config id="166aa6f4dda" ></w:Config>
+</e:Skin>

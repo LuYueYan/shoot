@@ -1,0 +1,43 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/eui/eui.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/game/game.js",
+		"libs/modules/promise/promise.js",
+		"libs/md5/md5.js",
+		"libs/physics/physics.js"
+	],
+	"game": [
+		"bin-debug/master/ServiceMaster.js",
+		"bin-debug/AssetAdapter.js",
+		"bin-debug/Main.js",
+		"bin-debug/Platform.js",
+		"bin-debug/ThemeAdapter.js",
+		"bin-debug/component/ballCom.js",
+		"bin-debug/component/beeCom.js",
+		"bin-debug/component/gridCom.js",
+		"bin-debug/component/starCom.js",
+		"bin-debug/master/AdMaster.js",
+		"bin-debug/master/CallbackMaster.js",
+		"bin-debug/master/DeviceMaster.js",
+		"bin-debug/master/movieMaster.js",
+		"bin-debug/master/sceneMaster.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/master/soundMaster.js",
+		"bin-debug/master/userDataMaster.js",
+		"bin-debug/modal/getLifeModal.js",
+		"bin-debug/modal/getSuccess.js",
+		"bin-debug/modal/levelUpModal.js",
+		"bin-debug/modal/moreItem.js",
+		"bin-debug/modal/moreScroller.js",
+		"bin-debug/modal/rankItem.js",
+		"bin-debug/modal/rankModal.js",
+		"bin-debug/modal/rebornModal.js",
+		"bin-debug/page/gameOver.js",
+		"bin-debug/page/runningScene.js",
+		"bin-debug/page/startScene.js"
+	]
+}

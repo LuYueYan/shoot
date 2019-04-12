@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="rebornModalSkin" width="750" height="380" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="16a1058fdea" ></w:Config>
+	<e:Label text="死亡将损失1点体力" x="145" y="50"/>
+	<e:Button id="rebornBtn" label="Button" x="173.5" y="165"/>
+	<e:Label id="ignoreBtn" text="不了&gt;" x="186" y="262" anchorOffsetY="0" touchEnabled="true"/>
+</e:Skin>

@@ -1,0 +1,326 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,img_elf_82_png,square_png,img_bg_game_png,img_time_05_png,img_time_01_png,img_time_02_png,img_time_03_png,img_time_04_png,arrow_png,point_png,Convex_png,ball_png,star_png,img_elf_32_png,blue_text_fnt,blue_text_png,brown_text_fnt,brown_text_png,icn_lock_png,img_bg_game_01_jpg,img_bg_game_02_jpg,img_bg_game_03_png,img_bg_green_1_png,img_bg_green_2_png,img_bg_prop_01_png,img_bullet_a1_png,img_bullet_a2_png,img_diamonds_00_png,img_diamonds_a1_png,img_diamonds_b1_png,img_prop_a1_png,img_role_boy_png,img_schedule_01_png,img_schedule_02_png,stripe_text_fnt,stripe_text_png,img_diamonds_c1_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/Aimages/img_elf_82.png",
+			"type": "image",
+			"name": "img_elf_82_png"
+		},
+		{
+			"url": "assets/Aimages/square.png",
+			"type": "image",
+			"name": "square_png"
+		},
+		{
+			"url": "assets/Aimages/img_bg_game.png",
+			"type": "image",
+			"name": "img_bg_game_png"
+		},
+		{
+			"url": "assets/Aimages/img_time_05.png",
+			"type": "image",
+			"name": "img_time_05_png"
+		},
+		{
+			"url": "assets/Aimages/img_time_01.png",
+			"type": "image",
+			"name": "img_time_01_png"
+		},
+		{
+			"url": "assets/Aimages/img_time_02.png",
+			"type": "image",
+			"name": "img_time_02_png"
+		},
+		{
+			"url": "assets/Aimages/img_time_03.png",
+			"type": "image",
+			"name": "img_time_03_png"
+		},
+		{
+			"url": "assets/Aimages/img_time_04.png",
+			"type": "image",
+			"name": "img_time_04_png"
+		},
+		{
+			"url": "assets/Aimages/arrow.png",
+			"type": "image",
+			"name": "arrow_png"
+		},
+		{
+			"url": "assets/Aimages/point.png",
+			"type": "image",
+			"name": "point_png"
+		},
+		{
+			"url": "assets/Aimages/Convex.png",
+			"type": "image",
+			"name": "Convex_png"
+		},
+		{
+			"url": "assets/Aimages/ball.png",
+			"type": "image",
+			"name": "ball_png"
+		},
+		{
+			"url": "assets/Aimages/star.png",
+			"type": "image",
+			"name": "star_png"
+		},
+		{
+			"url": "assets/Aimages/img_elf_32.png",
+			"type": "image",
+			"name": "img_elf_32_png"
+		},
+		{
+			"url": "assets/Aimages0410/blue_text.fnt",
+			"type": "font",
+			"name": "blue_text_fnt"
+		},
+		{
+			"url": "assets/Aimages0410/blue_text.png",
+			"type": "image",
+			"name": "blue_text_png"
+		},
+		{
+			"url": "assets/Aimages0410/brown_text.fnt",
+			"type": "font",
+			"name": "brown_text_fnt"
+		},
+		{
+			"url": "assets/Aimages0410/brown_text.png",
+			"type": "image",
+			"name": "brown_text_png"
+		},
+		{
+			"url": "assets/Aimages0410/icn_lock.png",
+			"type": "image",
+			"name": "icn_lock_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_bg_game_01.jpg",
+			"type": "image",
+			"name": "img_bg_game_01_jpg"
+		},
+		{
+			"url": "assets/Aimages0410/img_bg_game_02.jpg",
+			"type": "image",
+			"name": "img_bg_game_02_jpg"
+		},
+		{
+			"url": "assets/Aimages0410/img_bg_game_03.png",
+			"type": "image",
+			"name": "img_bg_game_03_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_bg_green_1.png",
+			"type": "image",
+			"name": "img_bg_green_1_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_bg_green_2.png",
+			"type": "image",
+			"name": "img_bg_green_2_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_bg_prop_01.png",
+			"type": "image",
+			"name": "img_bg_prop_01_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_bullet_a1.png",
+			"type": "image",
+			"name": "img_bullet_a1_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_bullet_a2.png",
+			"type": "image",
+			"name": "img_bullet_a2_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_diamonds_00.png",
+			"type": "image",
+			"name": "img_diamonds_00_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_diamonds_a1.png",
+			"type": "image",
+			"name": "img_diamonds_a1_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_diamonds_b1.png",
+			"type": "image",
+			"name": "img_diamonds_b1_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_prop_a1.png",
+			"type": "image",
+			"name": "img_prop_a1_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_role_boy.png",
+			"type": "image",
+			"name": "img_role_boy_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_schedule_01.png",
+			"type": "image",
+			"name": "img_schedule_01_png"
+		},
+		{
+			"url": "assets/Aimages0410/img_schedule_02.png",
+			"type": "image",
+			"name": "img_schedule_02_png",
+			"scale9grid": "8,3,84,20"
+		},
+		{
+			"url": "assets/Aimages0410/stripe_text.fnt",
+			"type": "font",
+			"name": "stripe_text_fnt"
+		},
+		{
+			"url": "assets/Aimages0410/stripe_text.png",
+			"type": "image",
+			"name": "stripe_text_png"
+		},
+		{
+			"name": "img_diamonds_c1_png",
+			"type": "image",
+			"url": "assets/Aimages0410/img_diamonds_c1.png"
+		}
+	]
+}
